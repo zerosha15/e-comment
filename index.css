@@ -147,3 +147,16 @@
     margin-left: 20px;
     cursor:pointer;
 }
+
+
+
+@media (max-width:425px){
+    .main{
+        background-size:cover;
+    }
+    .second-section{
+        background-image: none;
+        background-color: rgb(248, 230, 207);
+        height: 300px;
+    }
+}
